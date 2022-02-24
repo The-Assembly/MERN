@@ -18,3 +18,5 @@ Vid link: https://youtu.be/uQkr0-p9Gck
 
 Important note about code files attached:
 serverFinal and clientFinal contain separate node projects - without node_modules created or installed.  To install, run 'npm install' in the respective directories.
+
+WithStripe folder contains serverFinal and clientFinal built upon those in the root, with additional Stripe handling code in both client/server
