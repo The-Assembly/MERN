@@ -15,3 +15,6 @@ WHO IS IT FOR
 - Coding professionals looking to broaden their skills beyond client/server-side restrictions
 
 Vid link: https://youtu.be/uQkr0-p9Gck
+
+Important note about code files attached:
+serverFinal and clientFinal contain separate node projects - without node_modules created or installed.  To install, run 'npm install' in the respective directories.
